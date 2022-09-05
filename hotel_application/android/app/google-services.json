@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "984639767629",
+        "project_id": "trip-app-dac85",
+        "storage_bucket": "trip-app-dac85.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:984639767629:android:f262ff62239f2498698804",
+            "android_client_info": {
+                "package_name": "com.example.hotel_application"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "984639767629-1vfflgs5ra8gosr1pd1cemglbf4u91ap.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDb8ASpzkWFIGIaLa-b9X1mwHz93UZEhXY"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "984639767629-1vfflgs5ra8gosr1pd1cemglbf4u91ap.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
